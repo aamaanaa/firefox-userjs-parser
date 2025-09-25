@@ -4,6 +4,12 @@ Parser / validator / updater for firefox user.js files
 > [!IMPORTANT]
 > this will be released when i am done making it!
 
+**finished so far**:
+- [x] parsing of user.js file
+
+**@TODO**:
+- [ ] a lot of stuff
+
 ## Why is this needed?
 
 > NOTE: this repo = arkenfox, betterfox and so on
