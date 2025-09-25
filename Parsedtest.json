@@ -1,0 +1,54 @@
+{
+	"browser.link.open_newwindow.restriction": {
+		"Value": false,
+		"Comment": "disallow pop ups with newwindow event"
+	},
+	"browser.ml.chat.enabled": {
+		"Value": false,
+		"Comment": "disable ai features"
+	},
+	"browser.ml.enable": {
+		"Value": false,
+		"Comment": "disable ai features"
+	},
+	"browser.ml.linkPreview.enabled": {
+		"Value": false,
+		"Comment": ""
+	},
+	"browser.tabs.groups.smart.enabled": {
+		"Value": false,
+		"Comment": ""
+	},
+	"browser.tabs.loadDivertedInBackground": {
+		"Value": true,
+		"Comment": ""
+	},
+	"browser.urlbar.autoFill": {
+		"Value": true,
+		"Comment": ""
+	},
+	"browser.urlbar.autoFill.adaptiveHistory.enabled": {
+		"Value": false,
+		"Comment": "sear sugestions based on history"
+	},
+	"browser.urlbar.autoFill.adaptiveHistory.minCharsThreshold": {
+		"Value": 3,
+		"Comment": ""
+	},
+	"network.http.max-persistent-connections-per-server": {
+		"Value": 20,
+		"Comment": "increase download connections"
+	},
+	"privacy.firstparty.isolate": {
+		"Value": true,
+		"Comment": "isolate first party cookies"
+	},
+	"security.remote_settings.intermediates.parallel_downloads": {
+		"Value": 16,
+		"Comment": ""
+	},
+	"sidebar.revamp": {
+		"Value": false,
+		"Comment": ""
+	}
+}
