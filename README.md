@@ -39,6 +39,9 @@ the final result looks something like so
     "Comment": "disallow pop ups with newwindow event"
 },
 ```
+
+Now, this is *clear, sexy, and well structured*! So, easy to share and give! and more important: easy to use for the rest of the upcomming functionality!
+
 we can do stuff with this like comparing to other user.js from online resources, save it, back up it, share it online. whatever.
 
 ### parsing other user.js files
